@@ -1,6 +1,12 @@
+ 
 ==================================================
      Java Swing Client-Server Chat Application
 ==================================================
+
+ 
+## 📸 Screenshot
+
+![Chat Window](screenshots/ss.png)
 
 DESCRIPTION:
 ------------
