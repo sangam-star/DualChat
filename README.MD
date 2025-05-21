@@ -4,7 +4,7 @@
 ==================================================
 
  
-## 📸 Screenshot
+## 📸 Preview
 
 ![Chat Window](screenshots/ss.png)
 
